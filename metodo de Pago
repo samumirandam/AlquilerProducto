@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Metodo de Pagos:</h1>
+
+<form action="/action_page.php">
+  <input type="checkbox" name="Metodo 1" value="efectivo"> Efectivo <br>
+    <input type="checkbox" name="Metodo 2" value="Tarjeta"> Tarjetas debido /credito <br>
+  <input type="submit" value="SEnviar">
+</form>
+
+</body>
+</html>
